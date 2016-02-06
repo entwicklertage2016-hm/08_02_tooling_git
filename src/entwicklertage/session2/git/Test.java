@@ -15,7 +15,9 @@ public class Test {
 	@Override
 	public String toString() {
 		// TODO Auto-generated method stub
+		System.out.println("huhu");
 		return super.toString();
+		
 	}
 	
 }
